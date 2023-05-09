@@ -40,7 +40,6 @@ If you would like to contribute to the project, please follow these steps:
 ## Credits
 
 - Developed by Luis C.
-- Based on the [Pacman Calculator Tutorial](https://www.youtube.com/watch?v=6cxJp6LAtHs) by CS Dojo.
 
 ## License
 
