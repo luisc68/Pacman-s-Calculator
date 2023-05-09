@@ -27,16 +27,6 @@ The calculator includes the following features:
 
 This calculator has been designed and optimized for devices with screens similar in size to the Google Pixel 6 Pro. While it may work on other devices, the user interface may not display correctly or be difficult to use.
 
-## Contributing
-
-If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a branch (`git checkout -b your-branch`)
-3. Make your changes and commit them (`git commit -am "Added a feature"`)
-4. Push to the branch (`git push origin your-branch`)
-5. Open a Pull Request and describe your changes.
-
 ## Credits
 
 - Developed by Luis C.
@@ -44,4 +34,8 @@ If you would like to contribute to the project, please follow these steps:
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+![Pacman's Calculator Screenshot](screenshots/Screenshot_1.png width="500" height="auto")
+![Pacman's Calculator Screenshot](screenshots/Screenshot_2.png width="500" height="auto")
+
 
