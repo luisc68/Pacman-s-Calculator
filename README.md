@@ -1,4 +1,4 @@
-# Pacman-s-Calculator
+# Pacman´s Calculator
 
 This is a calculator project developed in Kotlin in Android Studio for the Programming III class at the university. The user interface is inspired by the iconic video game character Pacman and the game itself.
 
