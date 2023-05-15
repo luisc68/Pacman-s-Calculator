@@ -35,6 +35,14 @@ This calculator has been designed and optimized for devices with screens similar
 
 - Developed by Luis C.
 
+## Contact
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email: cernajose79@gmail.com
+- Twitter: [@05_joseluis](https://twitter.com/05_joseluis)
+
+
 ## License
 
 This project is licensed under the MIT License - see the `LICENSE` file for details.
