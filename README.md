@@ -21,9 +21,11 @@ The calculator includes the following features:
 ## How to use the calculator
 
 1. Clone the repository to your computer.
-2. Open the project in Android Studio.
-3. Run the project on a virtual device or on an Android device connected to your computer.
-4. Use the user interface to perform your calculations.
+   ```bash
+   git clone https://github.com/luisc68/pacman-s-calculator.git
+3. Open the project in Android Studio.
+4. Run the project on a virtual device or on an Android device connected to your computer.
+5. Use the user interface to perform your calculations.
 
 ## Supported Screen Sizes
 
