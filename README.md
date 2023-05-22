@@ -3,7 +3,7 @@
 This is a calculator project developed in Kotlin in Android Studio for the Programming III class at the university. The user interface is inspired by the iconic video game character Pacman and the game itself.
 
 
-| Screenshot 1 | Screenshot 2 |
+| Screenshot 1: Loading Screen | Screenshot 2: Homa Screen |
 |--------------|--------------|
 | ![Pacman's Calculator Screenshot](screenshots/Screenshot_1.png)      | ![Pacman's Calculator Screenshot](screenshots/Screenshot_2.png)      |
 
